@@ -102,7 +102,6 @@ pip install pulp gurobipy
 pip install ipykernel
 ```
 
-**Note**: Gurobi requires a license. For academic use, free academic licenses are available at [https://www.gurobi.com/academia/](https://www.gurobi.com/academia/). Alternatively, the code can run without Gurobi with minor modifications to the optimization components.
 
 ## Running the Code
 
