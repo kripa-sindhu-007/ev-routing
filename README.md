@@ -317,4 +317,4 @@ For benchmark comparisons, document your hardware specifications:
 ---
 
 **Last Updated**: December 2025  
-**Version**: 1.0
+
