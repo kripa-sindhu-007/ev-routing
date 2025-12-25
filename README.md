@@ -278,26 +278,6 @@ Upon successful execution, the code will generate:
 - **Medium Run**: Use `num_nodes=1000`, `num_edges=2000`, `num_od_pairs=10` (5-10 minutes)
 - **Full Experiment**: Default parameters `num_nodes=4000`, `num_edges=8000` (30-60 minutes)
 
-## Citation
-
-If you use this code in your research, please cite:
-
-```
-[Your Research Paper Citation]
-Author(s), Title, Journal Name, Year
-```
-
-## License
-
-[Specify your license here]
-
-## Contact Information
-
-For questions or issues regarding this implementation:
-
-- **Author**: kripa-sindhu-007
-- **GitHub**: [Repository URL]
-- **Email**: [Your email address]
 
 ## Acknowledgments
 
